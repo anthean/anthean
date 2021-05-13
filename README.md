@@ -16,7 +16,7 @@ Computer Science student at [University of California, Irvine](https://www.ics.u
 ### 📬 Get in Touch
 
 - GitHub: [github.com/anthean][github]
-- LinkedIn: [https://www.linkedin.com/in/anthea-nguyen-4b8b2b132/] [linkedin]
+- LinkedIn: [linkedin.com/in/anthea-nguyen-4b8b2b132/] [linkedin]
 - E-mail: anthean@uci.edu 
 
 ### 📚 Looking for my Resume? E-Mail me!
