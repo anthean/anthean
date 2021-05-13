@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anthea%20Nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthea-nguyen/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 Computer Science student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Busines Management. 
 
 - 🔭 I’m currently studying **Software Engineering** at UC Irvine (zot zot!)
