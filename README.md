@@ -9,7 +9,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 
 - 🔭 I’m currently studying **Software Engineering** at UC Irvine (zot zot!)
 - 🌱 I’m currently learning **mobile** and **full-stack development**
-- 💬 Talk to me about **accessiblity in tech** and your favorite **IDE** and why it's Xcode
+- 💬 Talk to me about **accessiblity in tech** and your favorite **IDE** and why it's VScode 👀
 - 👯 I’m looking to collaborate on **Open Source** and/or **Social Good** projects
 - 😄 Pronouns: She/They
 
