@@ -21,12 +21,12 @@ Computer Science student at [University of California, Irvine](https://www.ics.u
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Anthea's github stats](https://github-readme-stats.vercel.app/api?username=anthean&show_icons=true&hide_border=true)
 
+![Profile last updated](https://img.shields.io/github/last-commit/anthean/anthean/master?label=Last%20updated&style=flat)
 
 <!--
 **anthean/anthean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Anthea's github stats](https://github-readme-stats.vercel.app/api?username=anthean&show_icons=true&hide_border=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
