@@ -1,6 +1,6 @@
 # Hello, I'm Anthea! 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-anthean@uci.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anthean@uci.edu "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anthean@uci.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Anthea%20Nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthea-nguyen/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
@@ -19,7 +19,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 
 - GitHub: github.com/anthean
 - LinkedIn: linkedin.com/in/anthea-nguyen
-- E-mail: anthean@uci.edu 
+- E-mail: antheaknguyen@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
 
