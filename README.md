@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
 
-Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Busines Management. 
+Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Business Management. 
 
 - 🔭 I’m currently studying **Software Engineering** at UC Irvine (zot zot!)
 - 🌱 I’m currently learning **mobile** and **full-stack development**
