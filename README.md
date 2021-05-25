@@ -7,10 +7,10 @@
 
 Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Business Management. 
 
-- 🔭 I’m currently studying **Software Engineering** at UC Irvine (zot zot!)
+- 🔭 I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
 - 🌱 I’m currently learning **mobile** and **full-stack development**
-- 💬 Talk to me about **accessiblity in tech** and your favorite **language** and *why*!
-- 👯 I’m looking to collaborate on **open source** and/or **social good** projects
+- 💬 Talk to me about **accessiblity in tech**!
+- 👯 I’m looking to collaborate on **music** and/or **social good** projects
 - 😄 Pronouns: She/They
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
