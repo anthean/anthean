@@ -8,7 +8,7 @@
 Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Business Management. 
 
 - 🔭 I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
-- 🌱 I’m currently a **Software Engineering Intern** at **ServiceNow**!
+- 🌱 I’m currently a *SWE Intern* at **ServiceNow** and *iOS Engineering Intern* at **Vusar**!
 - 💬 Talk to me about **accessiblity in tech**!
 - 👯 I’m looking to collaborate on **music** and/or **social good** projects
 - 😄 Pronouns: She/They
