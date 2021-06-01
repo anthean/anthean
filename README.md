@@ -11,7 +11,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 - 🌱 I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
 - 💬 Talk to me about **accessiblity in tech**!
 - 👯 I’m looking to collaborate on **music** and/or **social good** projects
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Hers
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
