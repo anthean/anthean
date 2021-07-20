@@ -9,8 +9,8 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 
 - 🔭 I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
 - 🌱 I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
-- 💬 Talk to me about **accessiblity in tech**!
-- 👯 I’m looking to collaborate on **music** and/or **social good** projects
+- 💬 Talk to me about **accessiblity in tech** and your **career aspirations**!
+- 👯 I’m looking to collaborate on **ed tech** and/or **social good** projects
 - 🧃 Pronouns: She/Hers
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
@@ -21,7 +21,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 - LinkedIn: https://linkedin.com/in/anthea-nguyen
 - E-mail: antheaknguyen@gmail.com
 
-### 📚 Looking for my Resume? E-Mail me!
+### 📚 Looking for my Resume? E-Mail me! [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
 
 
 
