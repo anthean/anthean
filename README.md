@@ -21,8 +21,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 - LinkedIn: https://linkedin.com/in/anthea-nguyen
 - E-mail: antheaknguyen@gmail.com
 
-### 📚 Looking for my Resume? E-Mail me! [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
-
+### 📚 Looking for my Resume? E-Mail me! 
 
 
 <!--
