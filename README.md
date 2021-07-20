@@ -1,17 +1,23 @@
-# Hello, I'm Anthea! 👋
+# Welcome! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Anthea%20Nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthea-nguyen/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
 
-Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing a Bachelors in Software Engineering and a minor in Business Management. 
+Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)! 
 
-- 🔭 I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
-- 🌱 I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
-- 💬 Talk to me about **accessiblity in tech** and your **favorite musician**!
-- 👯 I’m looking to collaborate on **ed tech** and/or **social good** projects
-- 🧃 Pronouns: She/Hers
+## 👨‍💻 Work Experience 
+- 📝 ServiceNow - June 2021 to Current 
+- 🎥 Vusar - Feb 2021 to June 2021 
+-  ✈️ Los Angeles World Airports - June 2018 to Sep 2019
+
+## ✨ Get to know me!
+- 🔭  I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
+- 🌱  I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
+- 💬  Talk to me about **accessiblity in tech** and your **favorite musician**!
+- 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
+- 🧃  Pronouns: She/Hers
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
@@ -21,7 +27,7 @@ Student at [University of California, Irvine](https://www.ics.uci.edu/) pursuing
 - LinkedIn: https://linkedin.com/in/anthea-nguyen
 - E-mail: antheaknguyen@gmail.com
 
-### 📚 Looking for my Resume? E-Mail me! 
+### 📚 Looking for my Resume? [Email me!](mailto:antheaknguyen@gmail.com)
 
 
 <!--
