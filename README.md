@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
 
-Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)! 
+<!-- Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)!  -->
 
 ## 👨‍💻 Work Experience 
 - 📝 ServiceNow - June 2021 to Current 
@@ -13,7 +13,7 @@ Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software
 -  ✈️ Los Angeles World Airports - June 2018 to Sep 2019
 
 ## ✨ Get to know me!
-- 🔭  I’m currently studying **Software Engineering** and **Business Management** at UC Irvine (zot zot!)
+- 🔭  I’m currently studying **Software Engineering** and **Business Management** 
 - 🌱  I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
 - 💬  Talk to me about **accessiblity in tech** and your **favorite musician**!
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
