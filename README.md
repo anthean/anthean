@@ -1,4 +1,4 @@
-# Hi there! 👋  <img src='https://64.media.tumblr.com/318f2b781705db067f74b5768c8a5c35/tumblr_mi0wucFcyk1rsvwibo1_500.gifv' width='100"'>
+# Welcome! 👋  <img src='https://i.pinimg.com/originals/44/98/65/4498650ebf80cf4ecb98162059dc0fe9.gif' width='100"'>
 
 [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Anthea%20Nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthea-nguyen/ "Connect on LinkedIn")
@@ -19,7 +19,11 @@
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
 - 🧃  Pronouns: She/They
 
-<img align='right' src='https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif' width='200"'>
+
+
+<img align='right' src='https://64.media.tumblr.com/318f2b781705db067f74b5768c8a5c35/tumblr_mi0wucFcyk1rsvwibo1_500.gifv' width='300"'>
+<!-- <img align='right' src='https://c.tenor.com/xwHChGGtYOMAAAAC/jake-adventure-time.gif' width='400"'>  -->
+<!-- <img align='right' src='https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif' width='200"'> -->
 <!-- <img align='right' src='https://media3.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif' width='200"'>
  -->
 
