@@ -17,7 +17,7 @@
 - 🌱  I’m currently a SWE Intern at **ServiceNow** and iOS Engineering Intern at **Vusar**!
 - 💬  Talk to me about **accessiblity in tech** and your **favorite musician**!
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
-- 🧃  Pronouns: She/Hers
+- 🧃  Pronouns: She/They
 
 <img align='right' src='https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif' width='200"'>
 <!-- <img align='right' src='https://media3.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif' width='200"'>
