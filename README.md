@@ -19,7 +19,7 @@
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
 - 🧃  Pronouns: She/Hers
 
-<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdog-gifs&psig=AOvVaw1GnwBA2RcD-V9fFiUozMHJ&ust=1634111422796000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi4wMqxxPMCFQAAAAAdAAAAABA0' width='200"'>
+<img align='right' src='https://c.tenor.com/5C811jOACN4AAAAj/cute-dog.gif' width='200"'>
 
 <!-- https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif -->
 ### 📬 Get in Touch
