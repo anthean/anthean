@@ -8,7 +8,7 @@
 <!-- Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)!  -->
 
 ## 👨‍💻 Work Experience 
-- 📝 ServiceNow - June 2021 to Current 
+- 📝 ServiceNow - June 2021 to September 2021
 - 🎥 Vusar - Feb 2021 to June 2021 
 -  ✈️ Los Angeles World Airports - June 2018 to Sep 2019
 
