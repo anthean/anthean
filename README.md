@@ -1,4 +1,4 @@
-# Welcome! 👋  <img src='https://i.pinimg.com/originals/44/98/65/4498650ebf80cf4ecb98162059dc0fe9.gif' width='100"'>
+# Welcome! <img src='https://i.pinimg.com/originals/44/98/65/4498650ebf80cf4ecb98162059dc0fe9.gif' width='100"'>
 
 [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Anthea%20Nguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthea-nguyen/ "Connect on LinkedIn")
