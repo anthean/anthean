@@ -29,14 +29,14 @@
 
 
 <!-- https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif -->
-### 📬 Get in Touch
+<!-- ### 📬 Get in Touch
 
 - GitHub: https://github.com/anthean
 - LinkedIn: https://linkedin.com/in/anthea-nguyen
 - E-mail: antheaknguyen@gmail.com
 
 ### 📚 Looking for my Resume? [Email me!](mailto:antheaknguyen@gmail.com)
-
+ -->
 
 <!--
 **anthean/anthean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
