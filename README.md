@@ -6,15 +6,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_anthean-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_anthean "Follow on Twitter")
 
 
-<!-- Hello, my name is Anthea (Ann-thee-uh) Nguyen, a rising senior studying Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)!  -->
+<!-- Hello, my name is Anthea (Ann-thee-uh) Nguyen, a software engineer currently exploring all things accessibility and GenAI! I received my bachelors in Software Engineering and Business Management at [University of California, Irvine](https://www.ics.uci.edu/)!  -->
 
 ## 👨‍💻 Work Experience 
-- 📝 ServiceNow - June 2021 to September 2021
+- 📝 ServiceNow - 2021 to Present
+- 🍎 Apple - Summer 2022
 - 🎥 Vusar - Feb 2021 to June 2021 
 -  ✈️ Los Angeles World Airports - June 2018 to Sep 2019
 
 ## ✨ Get to know me!
-- 🔭  I’m currently studying **Software Engineering** and **Business Management** at UC Irvine! (zot zot) 
+- 🔭  Graduate of  **Software Engineering** and **Business Management** from UC Irvine! (zot zot) 
 - 🌱  I’m a past SWE Intern at **ServiceNow** and iOS Intern at **Vusar**!
 - 💬  Talk to me about **accessiblity in tech** and your **favorite musician**!
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
