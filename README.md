@@ -16,10 +16,10 @@
 
 ## ✨ Get to know me!
 - 🔭  Graduate of  **Software Engineering** and **Business Management** from UC Irvine! (zot zot) 
-- 🌱  I’m a past SWE Intern at **ServiceNow** and iOS Intern at **Vusar**!
+- 🌱  I love learning new technologies and have dabbled with ML, iOS Mobile Development, and Web Devlopment :) 
 - 💬  Talk to me about **accessiblity in tech** and your **favorite musician**!
 - 👯  I’m looking to collaborate on **ed tech** and/or **social good** projects
-- 🧃  Pronouns: She/They
+<!-- - 🧃  Pronouns: She/They -->
 
 
 
