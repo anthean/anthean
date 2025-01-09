@@ -1,4 +1,4 @@
-# Welcome! 
+# Hi, I'm Anthea :') 
 <!-- <img src='https://i.pinimg.com/originals/44/98/65/4498650ebf80cf4ecb98162059dc0fe9.gif' width='100"'> -->
 
 [![Gmail Badge](https://img.shields.io/badge/-antheaknguyen@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:antheaknguyen@gmail.com "Connect via Email")
